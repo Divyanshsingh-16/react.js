@@ -1,0 +1,13 @@
+.Square{
+   box-shadow: none;
+   border-style: solid;
+   padding:25px;
+   margin: auto;
+   background-color: white;
+   font-size: medium;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 800;
+   font-display:none;
+   border: 2px solid black;
+   
+}
